@@ -1,0 +1,3 @@
+# java-utils
+A collection of utility classes for Java projects, covering the following data structures: String, Date/time, Collections, XML, File, Email, etc...
+Extensive use of existing Java, Apache and Joda time libraries.
